@@ -12,6 +12,7 @@
 	"institutions" : "[ 'Beth Isreal Deaconess Medical Center' ]",
 	"keywords" : "[ 'examples', 'tabs', 'webclient' ]",
 	"package" : "https://github.com/i2b2plugins/wc-devExamp2-tabs/archive/v1.4.zip",
+	"icon" : "https://github.com/i2b2plugins/wc-devExamp2-tabs/blob/master/i2b2-icon.png",
 	"userManual" : "",
 	"installGuide" : "",
 	"configuration" : "None",
